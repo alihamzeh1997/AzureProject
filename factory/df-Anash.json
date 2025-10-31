@@ -1,0 +1,9 @@
+{
+	"name": "df-Anash",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60f27eb5-b438-4a2c-a64d-aa86acc2b317",
+		"tenantId": "c42931e3-6733-41e6-8d42-c48ba334bba4"
+	}
+}
